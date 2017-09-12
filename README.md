@@ -34,3 +34,9 @@ zip aws-lambda-php-example.zip index.js index.php php
 
 ### Create Example Lambda Function
 Now you can create a new Lambda function on AWS and upload the ZIP package. 
+
+   * Type: nodeJS
+   * RAM: 128mb
+   * Timeout: 3 seconds
+
+
